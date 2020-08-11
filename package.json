@@ -1,6 +1,6 @@
 {
-  "name": "sketch-assistant-template",
-  "homepage": "https://github.com/sketch-hq/sketch-assistant-template",
+  "name": "sketch-assistant-colors",
+  "homepage": "https://github.com/sketch-hq/sketch-assistant-colors",
   "version": "1.0.0",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",

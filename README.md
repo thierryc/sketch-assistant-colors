@@ -1,9 +1,9 @@
-# sketch-assistant-template
+# sketch-assistant-colors
 
 > 💁‍♀️ This repository contains a starter project for developing a new Assistant.
 
 👉
-[Click here to generate a new project using this repository as a template](https://github.com/sketch-hq/sketch-assistant-template/generate)
+[Click here to generate a new project using this repository as a template](https://github.com/sketch-hq/sketch-assistant-colors/generate)
 
 ## Getting started
 
